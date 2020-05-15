@@ -9,7 +9,7 @@ Brain cells (neurons) come in millions of shapes and sizes. Even neurons that ar
 
 ## Process
 
-1. The script takes as its input a **.csv** file with rows=genes and columns=neurons. Each cell in the table contains the RNA transcript copy numbers (obtained via single nuclei RNA sequencing) for a particular gene for a particular neuron
+1. The script takes as its input a **.csv** file with rows=genes and columns=neurons (for an example, see **counts.cvs** in the repository). Each cell in the table contains the RNA transcript copy numbers (obtained via single nuclei RNA sequencing) for a particular gene for a particular neuron
 
 2. The script carries out the following steps:
 
